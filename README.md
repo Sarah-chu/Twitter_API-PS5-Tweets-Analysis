@@ -46,8 +46,7 @@ Beside the hashtags directly related to 'Playstation5', the most frequently used
 In general, there are more than negative emotions (red) than positive emotions (green). The negative emotions score, 336, was higher than the positive emotions score, 289. While trust was the highest ranking sentiment at 175, fear is followed closely behind at 150. Then comes anticipation, a positive emotion, but then is sadness and anger.
 
 ## Topic Modeling :
-<img src="/images/topic_modeling.png" width="1100"> 
-![topic](/images/topic_modeling.png)   
+<img src="/images/topic_modeling.png" width="600"> 
 
 Topic 1 : About PS5 release events for a game, Hitman, in January, while it is also being released on the Nintendo Switch.  
 Topic 2 : Seems to be about the need for Sony (PS5) to assure fans and generate trust and to supply more PS5s to meet the demand.  
