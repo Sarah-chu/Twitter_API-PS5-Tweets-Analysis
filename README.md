@@ -18,6 +18,13 @@ To track customer reactions of PS5 launched on Nov 12, 2020 through Twitter for 
 7) Most of the positive words expressed user's support for the PS5 launch.
 8) Negative emotions are more about insufficient stock of PS5 and some product issues.
 
+## Dataset :
+
+The data was collected using Twitter API. This dataset cover 4962 tweets with the keyword "Playstation 5 OR PlayStation 5 OR playstation5 OR PS5 OR PS5Share OR ps5" from 15/01/2021 to 18/01/2021.
+
+Only location, source, text columns were used in this project.
+
+
 ## Analysis : 
 
 ### Location of PS5 Tweets :
